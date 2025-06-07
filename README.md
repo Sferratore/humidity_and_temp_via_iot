@@ -56,8 +56,3 @@ A **10kΩ pull-up resistor** is recommended between the **Data** pin and **VCC**
 - Secure communication protocols like **HTTPS/MQTT-TLS**.
 - **Access control mechanisms** for cloud storage.
 
-## Future Improvements
-- Implement **blockchain-based data integrity checks**.
-- Add **machine learning for predictive analytics**.
-- Expand support for **multiple sensors**.
-
