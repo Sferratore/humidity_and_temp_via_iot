@@ -49,7 +49,7 @@ A **10kΩ pull-up resistor** is recommended between the **Data** pin and **VCC**
 ### Android App
 1. Open the **HumidityTempAndroid** project in **Android Studio**.
 2. Sync dependencies and build the project.
-3. Deploy on a real Android device (API Level 23+ recommended).
+3. Deploy on a real Android device.
 
 ## Security Considerations
 - **AES Encryption** ensures data privacy.
