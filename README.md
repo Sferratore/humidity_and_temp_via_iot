@@ -61,6 +61,3 @@ A **10kΩ pull-up resistor** is recommended between the **Data** pin and **VCC**
 - Add **machine learning for predictive analytics**.
 - Expand support for **multiple sensors**.
 
-## Authors
-Developed as part of an **IoT Security Master's Project**.
-
